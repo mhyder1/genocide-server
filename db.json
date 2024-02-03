@@ -1,122 +1,808 @@
 {
-  "decks": [
+  "data": [
     {
-      "id": 1,
-      "name": "Rendering in React",
-      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+      "section": "introduction",
+      "page": 1,
+      "content": "This Application concerns acts threatened, adopted, condoned, taken and being taken by the Government and military of the State of Israel against the Palestinian people, a distinct national, racial and ethnical group, in the wake of the attacks in Israel on 7 October 2023. South Africa unequivocally condemns all violations of international law by all parties, including the direct targeting of Israeli civilians and other nationals and hostage-taking by Hamas and other Palestinian armed groups. No armed attack on a State’s territory no matter how serious — even an attack involving atrocity crimes — can, however, provide any possible justification for, or defence to, breaches of the 1948 Convention on the Prevention and Punishment of the Crime of Genocide (‘Genocide Convention’ or ‘Convention’),1 whether as a matter of law or morality. The acts and omissions by Israel complained of by South Africa are genocidal in character because they are intended to bring about the destruction of a substantial part of the Palestinian national, racial and ethnical group, that being the part of the Palestinian group in the Gaza Strip (‘Palestinians in Gaza’). The acts in question include killing Palestinians in Gaza, causing them serious bodily and mental harm, and inflicting on them conditions of life calculated to bring about their physical destruction. The acts are all attributable to Israel, which has failed to prevent genocide and is committing genocide in manifest violation of the Genocide Convention, and which has also violated and is continuing to violate its other fundamental obligations under the Genocide Convention, including by failing to prevent or punish the direct and public incitement to genocide by senior Israeli officials and others.",
+      "references": [
+        "Convention on the Prevention and Punishment of the Crime of Genocide (adopted 9 December 1948, entered into force 12 January 1951), 78 UNTS 277."
+      ]
     },
     {
-      "name": "React Router",
-      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
-      "id": 2
+      "section": "introduction",
+      "page": 2,
+      "content": "In preparing this Application, South Africa has paid close attention to the provisions of the Genocide Convention, to its interpretation, and to its application in the years following its entry into force on 12 January 1951, as well as to the jurisprudence of this Court and that of other international courts and tribunals, including the International Criminal Tribunal for the former Yugoslavia, the International Criminal Tribunal for Rwanda and the International Criminal Court. South Africa is highly cognisant of the fact that acts of genocide are distinct from other violations of international law sanctioned or perpetrated by the Israeli government and military in Gaza — including intentionally directing attacks against the civilian population, civilian objects and buildings dedicated to religion, education, art, science, historic monuments, hospitals, and places where the sick and wounded are collected; torture; the starvation of civilians as a method of warfare; and other war crimes and crimes against humanity — though there is often a close connection between all such acts. South Africa is also aware that acts of genocide inevitably form part of a continuum — as Raphaël Lemkin who coined the term ‘genocide’ himself recognised.2 For this reason it is important to place the acts of genocide in the broader context of Israel’s conduct towards Palestinians during its 75-year-long apartheid, its 56-year- long belligerent occupation of Palestinian territory and its 16-year-long blockade of Gaza, including the serious and ongoing violations of international law associated therewith, including grave breaches of the Fourth Geneva Convention,3 and other war crimes and crimes against humanity. However, when referring in this Application to acts and omissions by Israel which are capable of amounting to other violations of international law, South Africa’s case is that those acts and omissions are genocidal in character, as they are committed with the requisite specific intent (dolus specialis) to destroy Palestinians in Gaza as a part of the broader Palestinian national, racial and ethnical group. "
     },
     {
-      "name": "New Deck",
-      "description": "Deck description",
-      "id": 3
+      "section": "introduction",
+      "page": 3,
+      "content": "South Africa is acutely aware of the particular weight of responsibility in initiating proceedings against Israel for violations of the Genocide Convention. However, South Africa is also acutely aware of its own obligation — as a State party to the Genocide Convention — to prevent genocide. Israel’s acts and omissions in relation to Palestinians violate the Genocide Convention. That is the shared view of numerous other States parties to the Convention, including the State of Palestine itself, which has called on “world leaders” to “take responsibility… to stop the genocide against our people”.4 United Nations experts have also repeatedly sounded “the alarm” for over 10 weeks that “[c]onsidering statements made by Israeli political leaders and their allies, accompanied by military action in Gaza and escalation of arrests and killing in the West Bank” there is a “risk of genocide against the Palestinian people”.5 United Nations experts have also expressed their “profound … concern” about “the failure of the international system to mobilise to prevent genocide” against Palestinians, and have called on the “international community” to “do everything it can to immediately end the risk of genocide against the Palestinian people”.6 The Committee on the Elimination of Racial Discrimination (‘CERD’), acting under its ‘early warning and urgent action procedure’, has also called on “all State parties” to the Genocide Convention to “fully respect” their “obligation to prevent… genocide”.7 This application by South Africa and its request for the indication of provisional measures fall to be considered in that context and in the light of those calls. It is made against the background of South Africa’s foreign policy objective for the attainment of a durable peace between Israel and the State of Palestine, with two States existing side by side within internationally recognised borders, based on those existing on 4 June 1967, prior to the outbreak of the 1967 Arab-Israeli war, in line with all relevant United Nations resolutions and international law."
     },
     {
-      "name": "hello",
-      "description": "hjghgjh",
-      "id": 4
-    }
-  ],
-  "cards": [
-    {
-      "id": 1,
-      "front": "Differentiate between Real DOM and Virtual DOM.",
-      "back": "Virtual DOM updates are faster but do not directly update the HTMLjjj",
-      "deckId": 1
+      "section": "introduction",
+      "page": 4,
+      "content": "The facts relied on by South Africa in this application and to be further developed in these proceedings establish that — against a background of apartheid, expulsion, ethnic cleansing, annexation, occupation, discrimination, and the ongoing denial of the right of the Palestinian people to self- determination — Israel, since 7 October 2023 in particular, has failed to prevent genocide and has failed to prosecute the direct and public incitement to genocide. More gravely still, Israel has engaged in, is engaging in and risks further engaging in genocidal acts against the Palestinian people in Gaza. Those acts include killing them, causing them serious mental and bodily harm and deliberately inflicting on them conditions of life calculated to bring about their physical destruction as a group. Repeated statements by Israeli State representatives, including at the highest levels, by the Israeli President, Prime Minister, and Minister of Defence express genocidal intent. That intent is also properly to be inferred from the nature and conduct of Israel’s military operation in Gaza, having regard inter alia to Israel’s failure to provide or ensure essential food, water, medicine, fuel, shelter and other humanitarian assistance for the besieged and blockaded Palestinian people, which has pushed them to the brink of famine. It is also clear from the nature, scope and extent of Israel’s military attacks on Gaza, which have involved the sustained bombardment over more than 11 weeks of one of the most densely populated places in the world, forcing the evacuation of 1.9 million people or 85% of the population of Gaza from their homes and herding them into ever smaller areas, without adequate shelter, in which they continue to be attacked, killed and harmed. Israel has now killed in excess of 21,110 named Palestinians, including over 7,729 children — with over 7,780 others missing, presumed dead under the rubble — and has injured over 55,243 other Palestinians, causing them severe bodily and mental harm. Israel has also laid waste to vast areas of Gaza, including entire neighbourhoods, and has damaged or destroyed in excess of 355,000 Palestinian homes, alongside extensive tracts of agricultural land, bakeries, schools, universities, businesses, places of worship, cemeteries, cultural and archaeological sites, municipal and court buildings, and critical infrastructure, including water and sanitation facilities and electricity networks, while pursuing a relentless assault on the Palestinian medical and healthcare system. Israel has reduced and is continuing to reduce Gaza to rubble, killing, harming and destroying its people, and creating conditions of life calculated to bring about their physical destruction as a group."
     },
     {
-      "id": 2,
-      "front": "How do you modify the state of a different React component?",
-      "back": "Not at all! State is visible to the component only.",
-      "deckId": 1
+      "section": "introduction",
+      "page": 5,
+      "content": "South Africa, mindful of the jus cogens character of the prohibition of genocide and the erga omnes and erga omnes partes character of the obligations owed by States under the Genocide Convention, is making the present application to establish Israel’s responsibility for violations of the Genocide Convention; to hold it fully accountable under international law for those violations; and — most immediately — to have recourse to this Court to ensure the urgent and fullest possible protection for Palestinians in Gaza who remain at grave and immediate risk of continuing and further acts of genocide."
     },
     {
-      "id": 3,
-      "front": "How do you pass data 'down' to a React child component?",
-      "back": "As properties or props",
-      "deckId": 1
+      "section": "introduction",
+      "page": 6,
+      "content": "In light of the extraordinary urgency of the situation, South Africa seeks an expedited hearing for its request for the indication of provisional measures. In addition, pursuant to Article 74(4) of the Rules of Court, South Africa requests the President of the Court to protect the Palestinian people in Gaza by calling upon Israel immediately to halt all military attacks that constitute or give rise to violations of the Genocide Convention pending the holding of such hearing, so as to enable any order the Court may make on the request for the indication of provisional measures to have its appropriate effects. To that end, the Court should order Israel to cease killing and causing serious mental and bodily harm to Palestinian people in Gaza, to cease the deliberate infliction of conditions of life calculated to bring about their physical destruction as a group, to prevent and punish direct and public incitement to genocide, and to rescind related policies and practices, including regarding the restriction on aid and the issuing of evacuation directives."
     },
     {
-      "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
-      "back": "All paths. A route with no path matches all URL's",
-      "deckId": 2,
-      "id": 4
+      "section": "introduction",
+      "page": 7,
+      "content": "Mindful of the Court’s important role and the exercise of its grave responsibility in circumstances in which the genocidal acts of which South Africa complains have occurred very recently and are ongoing — and have not otherwise been subject to judicial determination or detailed fact-finding\n    — South Africa’s application and request for provisional measures provide a more detailed factual account than might otherwise be usual. That account draws in significant part on statements and reports by United Nations chiefs and bodies and non-governmental organisations (‘NGOs’), as well as eye- witness accounts from Gaza — including from Palestinian journalists on the ground — in circumstances where Israel continues to restrict access to Gaza by international journalists, investigators and fact- finding teams. However, neither the Application nor the request for the indication of provisional measures depends on a determination by the Court of each individual incident or complaint referred to herein. Notably, as the Court’s caselaw makes clear, “[w]hat the Court is required to do at the stage of making an order on provisional measures is to establish whether… at least some of the acts alleged… are capable of falling within the provisions of the Convention”.8 At least some of the acts alleged by South Africa are clearly capable of falling within those provisions.\n    "
     },
     {
-      "front": "What does <Switch> do?",
-      "back": "Renders the first matching child <Route> ",
-      "deckId": 2,
-      "id": 5
+      "section": "jurisdiction of the court",
+      "page": 8,
+      "content": "South Africa and Israel are both Members of the United Nations and therefore bound by the\n    Statute of the Court, including Article 36 (1), which provides that the Court’s jurisdiction “comprises .\n    . . all matters specially provided for . . . in treaties and conventions in force”.\n    "
     },
     {
-      "front": "fil out card",
-      "back": "didirijdjd",
-      "deckId": 1,
-      "id": 6
+      "section": "jurisdiction of the court",
+      "page": 9,
+      "content": "South Africa and Israel are also parties to the Genocide Convention. Israel signed the Genocide Convention on 17 August 1949 and deposited its instrument of ratification on 9 March 1950, thereby becoming a party when the Genocide Convention entered into force on 12 January 1951. South Africa deposited its instrument of accession on 10 December 1998. It became applicable between the parties on the ninetieth day thereafter, pursuant to Article XIII of the Convention."
     },
     {
-      "front": "More cards in React Router",
-      "back": "More cards in React Router ",
-      "deckId": 2,
-      "id": 11
+      "section": "jurisdiction of the court",
+      "page": 10,
+      "content": "Article IX of the Genocide Convention provides:\n\n    “Disputes between the Contracting Parties relating to the interpretation, application or fulfilment of the present Convention, including those relating to the responsibility of a State for genocide or for any of the other acts enumerated in article III, shall be submitted to the International Court of Justice at the request of any of the parties to the dispute.”\n    "
     },
     {
-      "front": "hjkhhhj hjhjhjhjhjhhhhh",
-      "back": "fffffff",
-      "deckId": 1,
-      "id": 12
+      "section": "jurisdiction of the court",
+      "page": 11,
+      "content": "Neither South Africa nor Israel has entered any reservation to Article IX."
     },
     {
-      "front": "add cardinggigging",
-      "back": "addinfg cardndndnd",
-      "deckId": 2,
-      "id": 13
+      "section": "jurisdiction of the court",
+      "page": 12,
+      "content": "South Africa has repeatedly and urgently expressed its concerns and condemnation in respect of Israel’s acts and omissions which form the basis of this Application. South Africa and other States Parties to the Genocide Convention have, in particular, made clear that Israel’s actions in Gaza constitute genocide against the Palestinian people. By way of example, the Presidents of Algeria,9 Bolivia,10 Brazil,11 Colombia,12 Cuba,13 Iran,14 Türkiye,15 and Venezuela16 have all described Israel’s actions as a genocide, as has the Palestinian President.17 State officials and representatives from Bangladesh,18 Egypt,19 Honduras,20 Iraq,21 Jordan,22 Libya,23 Malaysia,24 Namibia,25 Pakistan,26 Syria,27 and Tunisia,28 have also referred to genocide or the risk thereof in Gaza; as have heads of State and State officials from non-State parties to the Genocide Convention, including Qatar29 and Mauritania.30 Speaking on behalf of the ‘Arab Group’ at the 9498th meeting of the United Nations Security Council on 8 December 2023, ahead of the United Nations Security Council vote on a ceasefire, Egypt’s representative stated that the “[c]ivilian fatalities [in Gaza] lay bare the lie that the war is against an armed group. Rather, it is a collective punishment and genocide against the Palestinian people […] Citing “the extensive destruction of civilian infrastructure and the targeting of United Nations staff members”, he stated that “the forcible displacement of 85 per cent of Gaza’s people, living in dire circumstances, represents . . . an effort to eliminate the Palestinian people.”31"
     },
     {
-      "front": "trying ",
-      "back": "tttrying",
-      "deckId": 2,
-      "id": 15
+      "section": "jurisdiction of the court",
+      "page": 13,
+      "content": ""
     },
     {
-      "front": "etttsttt",
-      "back": "tststtsts",
-      "deckId": 1,
-      "id": 17
+      "section": "jurisdiction of the court",
+      "page": 14,
+      "content": "Israel has not responded directly to South Africa’s Note Verbale sent on 21 December 2023. However, Israel has publicly rejected any suggestion that it has violated international law in its military campaign in Gaza. Notably, Israel has dismissed as “outrageous and false” the assertion that Israel’s military attacks on Gaza meet “the legal definition of genocide” and are aimed at “not just simply the killing of innocent people and the destruction of their livelihoods but a systematic effort to empty Gaza of its people”.42 Israel denies that its conduct in Gaza violates its obligations under the Genocide Convention, asserting that “[t]he accusation of genocide against Israel is not only wholly unfounded as a matter of fact and law, it is morally repugnant” and “antisemitic”.43 Moreover, Israel has engaged and continues to engage in acts and omissions against the Palestinian people in Gaza as have been asserted to be genocidal and, by its attitude and conduct, has refuted any suggestion that its actions in Gaza are constrained by its obligations under the Genocide Convention. Indeed, the Israeli Prime Minister asserted on 26 December 2023: “We are not stopping. We are continuing to fight, and we are deepening the fighting in the coming days, and this will be a long battle and it is not close to being over.\"44 Israel’s own conduct therefore serves to underline the parties’ disagreement. South Africa has not resiled from its own position that it is responsible as a State party to the Genocide Convention to act to prevent genocide or a risk thereof in Gaza."
     },
     {
-      "front": "jhjhj ",
-      "back": "hjhjhjh ",
-      "deckId": 1,
-      "id": 19
+      "section": "jurisdiction of the court",
+      "page": 15,
+      "content": "According to the established case law of the Court, a dispute is “a disagreement on a point of law or fact, a conflict of legal views or interests” between parties.45 Such a disagreement or “positive opposition of the claim by one party by the other need not necessarily be stated expressis verbis… the position or the attitude of a party can be established by inference, whatever the professed view of that party”.46"
     },
     {
-      "front": "hjhhjjh",
-      "back": "njjhjh",
-      "deckId": 1,
-      "id": 20
+      "section": "jurisdiction of the court",
+      "page": 16,
+      "content": "There is plainly a dispute between Israel and South Africa relating to the interpretation and application of the Genocide Convention, going both to South Africa’s compliance with its own obligation to prevent genocide, and to Israel’s compliance with its obligations not to commit genocide and to prevent and punish genocide — including the direct and public incitement to genocide — and to make reparations to its victims and offer assurances and guarantees of non-repetition. Given that South Africa’s claim concerns its own obligations as a State party to the Genocide Convention to act to prevent genocide — to which Israel’s acts and omissions give rise — South Africa plainly has standing in relation thereto. Moreover, given that “any State party to the Genocide Convention, and not only a specially affected State, may invoke the responsibility of another State party with a view to ascertaining the alleged failure to comply with its obligations erga omnes partes, and to bring that failure to an end”, South Africa also “has prima facie standing” to submit to the Court its dispute with Israel “on the basis of alleged violations of obligations under the Genocide Convention”.47"
     },
     {
-      "front": "ghghg",
-      "back": "fgfgf",
-      "deckId": 1,
-      "id": 21
+      "section": "jurisdiction of the court",
+      "page": 17,
+      "content": "Therefore, pursuant to Article 36 (1) of the Court’s Statute and Article IX of the Genocide Convention, the Court has jurisdiction to hear the claims submitted in the present Application by South Africa against Israel."
     },
     {
-      "front": "Front of card",
-      "back": "back of card",
-      "deckId": 3,
-      "id": 22
+      "section": "the facts",
+      "page": 18,
+      "content": "Since 7 October 2023, Israel has engaged in a large-scale military assault by land, air and sea, on the Gaza Strip (‘Gaza’), a narrow strip of land approximately of 365 square kilometres – one of the most densely populated places in the world.48 Gaza — home to approximately 2.3 million people, almost half of them children — has been subjected by Israel to what has been described as one of the “heaviest conventional bombing campaigns” in the history of modern warfare.49 By 29 October 2023 alone, it was estimated that 6,000 bombs per week had been dropped on the tiny enclave.50 In just over two months, Israel’s military attacks had “wreaked more destruction than the razing of Syria’s Aleppo between 2012 and 2016, Ukraine’s Mariupol, or proportionally, the Allied bombing of Germany in World War II.”51 The destruction wrought by Israel is so extreme that “Gaza is now a different colour from space. It’s a different texture”.52 As stated by the United Nations Secretary-General, in a letter dated 6 December 2023 to the President of the United Nations Security Council,53 of which the United Nations General Assembly took express “note” in Resolution ESIO/22 of 12 December 2023 on the Protection of civilians and upholding legal and humanitarian obligations:54",
+      "subtext": [
+        "“Civilians throughout Gaza face grave danger. Since the start of Israel's military operation, more than 15,000 people have reportedly been killed, over 40 per cent of whom were children. Thousands of others have been injured. More than half of all homes have been destroyed. Some 80 per cent of the population of 2.2 million has been forcibly displaced, into increasingly smaller areas. More than 1.1 million people have sought refuge in UNRWA facilities across Gaza, creating overcrowded, undignified, and unhygienic conditions. Others have nowhere to shelter and find themselves on the street. Explosive remnants of war are rendering areas uninhabitable. There is no effective protection of civilians.",
+        "The health care system in Gaza is collapsing. Hospitals have turned into battlegrounds. Only 14 hospitals out of 36 facilities are even partially functional. The two major hospitals in south Gaza are operating at three times their bed capacity and are running out of basic supplies and fuel. They are also sheltering thousands of displaced persons. Under these circumstances, more people will die untreated in the coming days and weeks.",
+        "Nowhere is safe in Gaza.",
+        "Amid constant bombardment by the Israel Defense Forces, and without shelter or the essentials to survive, I expect public order to completely break down soon due to the desperate conditions, rendering even limited humanitarian assistance impossible. An even worse situation could unfold, including epidemic diseases and increased pressure for mass displacement into neighbouring countries.",
+        "While delivery of supplies through Rafah continues, quantities are insufficient and have dropped since the pause came to an end. We are simply unable to reach those in need inside Gaza . . . We are facing a severe risk of collapse of the humanitarian system. The situation is fast deteriorating into a catastrophe with potentially irreversible implications for Palestinians as a whole and for peace and security in the region. Such an outcome must be avoided at all cost.”55"
+      ]
     },
     {
-      "front": "another card",
-      "back": "back of this card",
-      "deckId": 3,
-      "id": 23
+      "section": "",
+      "page": 19,
+      "content": "Since that letter was written, the numbers have risen even more starkly: at least 21,110 Palestinians in Gaza have been killed and over 55,243 other Palestinians have been wounded, many severely. 56 The death toll includes over 7,729 children,57 not including the 4,700 women and children still missing, and presumed dead under the rubble.58 Entire multi-generational families have been wiped out completely. Over 355,000 homes equivalent to more than 60 per cent of Gaza’s housing stock in Gaza has been damaged or destroyed.59 1.9 million Palestinians — approximately 85 per cent of the total population — have been internally displaced.60 Many fled the north of the territory to the south, having been ordered to do so by Israel, only to be bombed again in the south, and told to flee once again further south or the south west, where they are reduced to living in makeshift tents in camps with no water, sanitation or other facilities.61 Israel has bombed, shelled and besieged Gaza’s hospitals, with only 13 out of 36 hospitals partially functional, and no fully functioning hospital left in North Gaza.62 Gaza’s healthcare system has all but collapsed, with reports of operations, including amputations and caesarean sections, taking place without anaesthetic.63 A significant proportion of the wounded and sick are unable to access any or adequate care.64 Contagious and epidemic diseases are rife amongst the displaced Palestinian population, with experts warning of the risk of meningitis, cholera and other outbreaks.65 The entire population in Gaza is at imminent risk of famine, whereas the proportion of households affected by acute food insecurity is the largest ever recorded according to the Integrated Food Security Phase Classification (‘IPC’).66Experts warn that silent, slow deaths caused by hunger and thirst risk surpassing those violent deaths already caused by Israeli bombs and missiles.67"
+    },
+    {
+      "section": "",
+      "page": 20,
+      "content": "The United Nations General Assembly has expressed “grave concern over the catastrophic humanitarian situation in the Gaza Strip and the suffering of the Palestinian civilian population”,68 with the United Nations Security Council noting in particular “the disproportionate effect on children”.69 In its Resolution ES10/22 of 12 December 2023, the United Nations General Assembly also took express “note” of a letter dated 7 December 2023 from the Commissioner-General of the United Nations Relief and Works Agency for Palestine Refugees in the Near East (‘UNRWA’), addressed to the President of the General Assembly. In the unprecedented letter, the Commissioner-General “predict[s] . . . the collapse of the mandate [he] is expected to fulfil” and calls for “an end to the decimation of Gaza and of its people”.70"
+    },
+    {
+      "section": "background",
+      "page": 21,
+      "content": "Gaza is a narrow strip of land, bordered to the west by the Mediterranean Sea, to the south by Egypt and to the north and east by Israel. Together with the West Bank, including East Jerusalem, it is one of the two constituent territories of the occupied Palestinian territory (‘oPt’) — occupied by Israel in 1967 — and of the State of Palestine, recognised by South Africa on 15 February 1995, and accorded non-member observer State status in the United Nations on 29 November 2012.71"
+    },
+    {
+      "section": "background",
+      "page": 22,
+      "content": "The population of Gaza consists of approximately 2.3 million people, over half of whom are children. 80 per cent of Palestinians in Gaza are refugees — and their descendants — from towns and villages in what is now the State of Israel,72 expelled or forced to flee during the mass displacement of over 750,000 Palestinians or ‘Nakba’ during the establishment of the State of Israel.73 The Nakba and the mass displacement associated with it therefore features prominently in the history and consciousness of Palestinians in Gaza, as it does for the wider Palestinian people. Palestinians in Gaza form a substantial part of the Palestinian national, racial and ethnical group: they are a prominent part of the group, making up the population of one of the two constituent territories of the State of Palestine. They are also a quantitively substantial part of the Palestinian population of the State of Palestine under occupation, which counts approximately 5.48 million people.74"
+    },
+    {
+      "section": "background",
+      "page": 23,
+      "content": "Gaza comprises five Governorates. The Gaza North and Gaza Governorates constituting ‘the North’ stretch from the north of Wadi Gaza towards Erez Crossing, a pedestrian crossing into Israel (also known as the ‘Beit Hanoun Crossing’). ‘The North’ is ordinarily home to approximately 1.1 million Palestinians,76 many concentrated in Gaza City (approximately 713,488 inhabitants),77 as well as in Beit Lahia and Beit Hanoun, and in the Beach and Jabalia refugee camps. It is where Gaza’s largest hospital, Al Shifa Medical Hospital, is situated, as well as the Kamal Adwan Hospital. The Deir al Balah Governorate (‘the Middle Area’) ordinarily counts 302,507 inhabitants,78 primarily in Deir al Balah City, as well as in the Al Maghazi, An Nuseirat, Al Bureij and Deir al Balah refugee camps; it is where Gaza’s only power plant is located. The Khan Yunis and Rafah Governorates (‘the South’) are below Deir al Balah Governorate and extend to the Rafah crossing with Egypt. The major population centres in the South are Khan Yunis and Rafah, as well as the Khan Yunis and Rafah refugee camps. The Karem Shalom Crossing (also known as ‘Karem Abu Salem Crossing’) is located four km west of Rafah. The South is where the Nasser hospital is located.79 The South’s pre-October 2023 population stood at approximately 673,844 inhabitants.80 The Middle Area and the South now accommodate more than 1.2 million internally displaced persons in 98 UNRWA facilities,81 and tens of thousands in makeshift tents in Al-Mawasi area — a Bedouin Palestinian town in a small strip of mostly undeveloped sand along Gaza’s Mediterranean coast —82 identified by Israel on the resumption of hostilities in the first week of December 2023 as a purportedly ‘safe zone’.83 Around 160,000 more displaced Palestinians are believed to remain in UNRWA facilities in the North,84 as well as others sheltering in other locations."
+    },
+    {
+      "section": "background",
+      "page": 24,
+      "content": "Until 2005, Gaza — like the West Bank today — was occupied by Israeli military forces on the ground. However, in 2005, Israel unilaterally ‘disengaged’ from Gaza, dismantling its military bases and relocating Israeli settlers from settlements in Gaza back to Israel and into the occupied West Bank.85 Notwithstanding its ‘disengagement’, Israel continues to exercise control over the airspace, territorial waters, land crossings, water, electricity, electromagnetic sphere and civilian infrastructure in Gaza,86 as well as over key governmental functions, such as the management of the Palestinian population registry for Gaza.87 Given that continuing effective control by Israel over the territory, Gaza is still considered by the international community to be under belligerent occupation by Israel.88 The near total control exercised by Israel over access to Gaza, and over its water, fuel, electricity and food supplies, has been demonstrated starkly since 7 October 2023."
+    },
+    {
+      "section": "background",
+      "page": 25,
+      "content": "Entry and exit by air and sea to Gaza has been prohibited since the early 1990s, with Israel operating only two crossing points – Erez (pedestrian) and Kerem Shalom (goods) – through which Palestinians in Gaza could access the West Bank, including East Jerusalem, for business, trade, healthcare and social and family functions.89 However, Israel imposed a stringent blockade of Gaza, following Hamas’ electoral victory in 2006 that was followed by inter-Palestinian violence, declaring the entire territory to be a ‘hostile territory’.90 Existing restrictions on the movement of persons were significantly tightened, with most Palestinians in Gaza being ineligible for permits to travel, leading to prolonged, indefinite separation for many Palestinian families.91 The few who were eligible to travel did “not necessarily receive permits and almost always encounter[ed] delays and difficulties in the process”.92 Between 2008 and 2021, the World Health Organization (‘WHO’) recorded that 839 Palestinians from Gaza had died while waiting for medical permits to leave Gaza for urgent medical treatment.93 The majority of permits were for day labourers and agricultural traders, primarily to undertake low-skilled work in Israel and on Israeli settlements in the West Bank.94 Between 2007 and 2010, Israel regulated food imports into Gaza in accordance with calories consumed per person, to limit the transfers of food to a ‘humanitarian minimum’, without causing hunger or malnutrition.95 Israel thereafter applied a ‘dual use’ system to imports into Gaza, severely restricting the entry of goods by prohibiting goods considered to be capable of having a dual civilian/military use.96"
+    },
+    {
+      "section": "",
+      "page": 26,
+      "content": "Israel’s parallel implementation of a wide buffer zone inside Gaza’s eastern border fence (estimated to restrict access to approximately 24 per cent of Gaza) severely impacts internal food supply, by reducing the main agricultural area for farming.97 Israel also made fishing extremely hazardous for Palestinians, who have not had full access to the fishing zone of 20 nautical miles stipulated in the Oslo Accords — interim agreements concluded between the PLO and Israel in the early 1990s. The naval blockade — policed by Israeli forces through the use of force, arrests and the confiscation of fishing equipment — severely reduced the fishing catchment area for Gaza’s fishermen to polluted waters immediately off the coastline, leading to overfishing impacting sustainability.98 As long ago as 2015, the United Nations Conference on Trade and Development (‘UNCTAD’) warned that the restrictive measures imposed by Israel risked Gaza becoming uninhabitable by 2020.99 In 2020, the United Nations Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967 described the impact of Israel’s blockade on Gaza as having turned Gaza “from a low-income society with modest but growing export ties to the regional and international economy to an impoverished ghetto with a decimated economy and a collapsing social service system”.100 In 2022, he described the situation as follows:",
+      "subtext": [
+        "“In Gaza, the apparent strategy of Israel is the indefinite warehousing of an unwanted population of 2 million Palestinians, whom it has confined to a narrow strip of land through its comprehensive 15-year-old air, land and sea blockade (with further restrictions by Egypt on the southern border of Gaza). Ban Ki-moon has called this political quarantining of the population a “collective punishment”, which is a serious breach of international law. The World Bank reported in 2021 that Gaza had undergone a multi-decade process of dedevelopment and deindustrialization, resulting in a 45 per cent unemployment rate and a 60 per cent poverty rate, with 80 per cent of the population dependent on some form of international assistance, in significant part because of the hermetic sealing of the access of Gaza to the outside world. The coastal aquifer, the sole source of natural drinking water in Gaza, has become polluted and unfit for human consumption because of contamination by seawater and sewage, substantially driving up water costs for an already destitute population. Gaza is heavily dependent on external sources — Israel and Egypt — for power, and Palestinians live with rolling power blackouts of between 12 and 20 hours daily, severely impairing daily living and the economy. The entry and export of goods is strictly controlled by Israel, which has throttled the local economy. The health-care system in Gaza is flat on its back, with serious shortages of health-care professionals, inadequate treatment equipment and low supplies of drugs and medicines. Palestinians in Gaza can rarely travel outside of Gaza, which is a denial of their fundamental right to freedom of movement. More acutely, they have endured four highly asymmetrical wars with Israel over the past 13 years, with enormous loss of civilian life and immense property destruction. The suffering was acknowledged by Antonio Guterres in May 2021, when he stated: “If there is a hell on earth, it is the lives of children in Gaza”.”101"
+      ]
+    },
+    {
+      "section": "",
+      "page": 27,
+      "content": "Between 29 September 2000 and 7 October 2023, approximately 7,569 Palestinians,102 including 1,699 children,103 were killed, including in those “four highly asymmetrical wars”, as well as other smaller military assaults, with tens of thousands of others injured. A further 214 Palestinians, including 46 children were killed during the ‘Great March of Return’,104 a large-scale peaceful protest along the separation fence between Gaza and Israel, in which thousands of Palestinians participated every Friday for over 18 months, demanding that “the blockade imposed on Gaza be lifted and the return of Palestinian refugees” to their homes and villages in Israel.105 On one particularly lethal day alone, Israel killed 60 Palestinian protesters.106 As determined by the Independent Commission of Inquiry on the protests in the occupied Palestinian territory (‘Commission’):",
+      "subtext": [
+        "“[D]uring these weekly demonstrations, the Israeli Security Forces (ISF) killed and gravely injured civilians who were neither participating directly in hostilities nor posing an imminent threat to life. Among those shot were children, paramedics, journalists, and persons with disabilities.”107"
+      ]
+    },
+    {
+      "section": "background",
+      "page": 28,
+      "content": "Those killed by Israeli soldiers, firing from behind the separation fence, included three medics and two journalists. A total of over 36,100 Palestinians, including nearly 8,800 children,108 were injured by Israel, including 4,903 people who were shot in the lower limbs, “many while standing hundreds of metres away from the snipers, unarmed”.109 156 of them had to have at least one limb amputated,110 and over 1,200 required specialised limb reconstruction treatment.111 The Commission found that the maiming was not accidental: the rules of engagement adopted by Israel permitted snipers to shoot at the legs of the “major inciters”.112 One Israeli soldier admitted that he shot “42 knees in one day”.113"
+    },
+    {
+      "section": "background",
+      "page": 29,
+      "content": "The Commission found that there were reasonable grounds to believe that Israeli snipers “intentionally shot” children, knowing them to be children,114 and they also “intentionally shot” health workers and journalists “despite seeing that they were clearly marked as such”.115 It further found “reasonable grounds to believe” that Israeli snipers shot disabled demonstrators “intentionally, despite seeing that they had visible disabilities” and despite them not presenting an imminent threat.116"
+    },
+    {
+      "section": "",
+      "page": 30,
+      "content": ""
+    },
+    {
+      "section": "background",
+      "page": 31,
+      "content": "In 2019, the then Prosecutor of the International Criminal Court (‘ICC’) held that “there is a reasonable basis to believe” that the Israeli army committed “war crimes… in the context of the 2014 hostilities in Gaza”, in particular.126 Recently, in October 2023, the Prosecutor has confirmed that his “Office has an ongoing investigation with jurisdiction over Palestine… [a]nd this includes jurisdiction over current events in Gaza and also current events in the West Bank”.127 The Prosecutor noted that Israel’s “[i]mpeding [of] relief supplies… may constitute a crime within the Court's jurisdiction”.128 He further indicated that his Office would “scrutinise” all information in relation to Israeli attacks on dwelling houses, schools, hospitals, churches, and mosques, for compliance with international humanitarian law.129 The Prosecutor has not given any more recent indication as to the state of progress of any investigation in relation to the Situation in the State of Palestine, including in response to the request of 17 November 2023 by South Africa and other States that the ICC investigate inter alia the crime of genocide.130"
+    },
+    {
+      "section": "The West Bank (including East Jerusalem)",
+      "page": 32,
+      "content": "The West Bank, including East Jerusalem, the larger constituent part of the occupied Palestinian territory, comprises 5,655 km2, with a population of 2.9 million Palestinians, is geographically separated from Gaza, and fragmented by Israeli settlements.131"
+    },
+    {
+      "section": "The West Bank (including East Jerusalem)",
+      "page": 33,
+      "content": "The Oslo Accords divided administrative competences over three areas of the West Bank (Areas A, B, and C — not including East Jerusalem) between the Palestinian Authority and Israel, the Occupying Power. Area A, comprising 18 per cent of the West Bank is stated to be under the full administrative control of the Palestinian Authority; Area B, comprising 22 per cent of the West Bank is under the administrative control of the Palestinian Authority and the security control of Israel; and Area C, comprising 60 per cent of the West Bank, is under full Israeli administrative and security control.132 In 1967, Israel purportedly annexed occupied East Jerusalem to its territory, and in 1980, it incorporated a provision into its Basic Law claiming Jerusalem ‘united’ as the capital of Israel, a move censured by the United Nations Security Council as “null and void” and to “be rescinded forthwith”.133 Since 1967, Israel has constructed 279 ‘settlements’ for Israeli civilians across the West Bank — including 14 settlements in East Jerusalem — appropriating 750,000 dunums (185,329 acres) of Palestinian land.134 The United Nations Security Council has repeatedly declared that the establishment of such settlements by Israel has “no legal validity and constitutes a flagrant violation under international law and a major obstacle to the achievement of the two-State solution and a just, lasting and comprehensive peace”.135 Regardless, the number of Israeli settlers transferred into the West Bank (including East Jerusalem) has increased dramatically from an estimated 247,000 at the time of the Oslo Accords,136 to over 700,000 in 2023.137 The Prosecutor of the International Criminal Court (‘ICC’) has determined that there is “a reasonable basis to believe” that “members of the Israeli authorities have committed war crimes… in relation, inter alia, to the transfer of Israeli civilians into the West Bank.138"
+    },
+    {
+      "section": "The West Bank (including East Jerusalem)",
+      "page": 34,
+      "content": "The United Nations Special Rapporteur on the situation of human rights in the Palestinian territories occupied since 1967, described the situation in the West Bank as follows:",
+      "subtext": [
+        "“53. …There, the Palestinians are subject to a harsh and arbitrary legal system quite unequal to that enjoyed by the Israeli settlers. Much of the West Bank is off-limits to Palestinians, and they regularly endure significant restrictions on their freedom of movement through closures, roadblocks, and the need for hard-to-obtain travel permits.",
+        "54.\tAccess to the natural resources of the occupied territory, especially to water, is disproportionately allocated to Israel and the settlers. Similarly, the planning system administered by the occupying power for housing and commercial development throughout the West Bank, including East Jerusalem, is deeply discriminatory in favour of settlement construction, while imposing significant barriers on Palestinians, including ongoing land confiscation, home demolitions and the denial of building permits. Israel employs practices that in some cases may amount to the forcible transfer of Palestinians, primarily those living in rural areas, as a means of confiscating land for settlements, military weapons training areas and other uses exclusive to the occupying power that have little or nothing to do with its legitimate security requirements.",
+        "55.\tAs for East Jerusalem, the occupation has increasingly detached it from its traditional national, economic, cultural and family connections with the West Bank because of the wall, the growing ring of settlements and related checkpoints, and the discriminatory permit regime. It is neglected by the municipality in terms of services and infrastructure, the occupation has depleted its economy and the Palestinians have only a small land area on which to build housing.”139"
+      ]
+    },
+    {
+      "section": "The West Bank (including East Jerusalem)",
+      "page": 35,
+      "content": "The institutionalised regime of discriminatory laws, policies and practices applied by Israel subjects Palestinians to what constitutes an apartheid regime.140 Palestinians in the West Bank are contained behind a segregating Wall, subjected to: discriminatory land zoning and planning policies; punitive and administrative house demolitions;141 violent Israeli army incursions into Palestinian villages, towns, cities and refugee camps, including in Area A;142 routine violent Israeli raids on their homes; arbitrary arrests and indefinitely renewable administrative detention (internment without trial); and a dual legal system pursuant to which Palestinians are tried under Israeli military legislation in Israeli military courts, without basic protections of international humanitarian and human rights law, while Israeli settlers living in the same territory are subject to a different legal regime, and tried in Israeli civilian courts with full due process.143"
+    },
+    {
+      "section": "",
+      "page": 36,
+      "content": "36.\tPalestinians in the West Bank are also subjected to routine violence by Israeli soldiers and armed settlers. Prior to 7 October 2023, between 1 January and 6 October 2023, 199 Palestinians had been killed by Israeli soldiers or settlers in the West Bank and 9,000 more had been injured.144 By September 2023, Save the Children had already declared 2023 the deadliest year for Palestinian children in the West Bank since 2005 with at least 38 Palestinian children having been killed.145 Since 7 October 2023, a further 295 Palestinians, including 77 children, have been killed by Israeli soldiers and settlers, and a further 3,803, including 576 children, wounded — many seriously.146 A total of 495 Palestinians have been killed in total in the West Bank, making it “the deadliest year for Palestinians” since 2005.147"
+    },
+    {
+      "section": "",
+      "page": 37,
+      "content": "In a wave of arbitrary mass arrests, Israel has detained more than 3,000 Palestinians from the West Bank and East Jerusalem, including for social media posts relating to the situation in Gaza.148 Israel significantly increased the number of Palestinians held in administrative detention, without charge or trial, to 2070.149 Thousands of Palestinians from Gaza working in Israel were also arbitrarily arrested and detained, with 3,200 being forcibly returned to Gaza on 3 November 2023 into intense full scale bombardments. Reports that the Palestinian labourers were mistreated on arrest and subjected to physical violence, abuse and humiliation are widespread.150 Many Palestinian adult and child detainees from the West Bank released in exchange for Israeli hostages report also severe ill-treatment, serious beatings and other outrages to personal dignity since 7 October 2023 in particular, alongside restrictions on access to food, water, medical treatment, and electricity in Israeli detention.151 Six Palestinian detainees from the West Bank have died in Israeli custody since 7 October 2023, in particular.152 19 Israeli prison guards were reportedly questioned for beating to death one of the prisoners, Tha’er Abu Asab, in Ketziot Prison.153"
+    },
+    {
+      "section": "",
+      "page": 38,
+      "content": "Since 7 October 2023, Israeli forces have carried out airstrikes and military raids on refugee camps in the West Bank, killing many Palestinians, bulldozing roads, and imposing severe restrictions on movement.154 There have been 236 attacks on ‘healthcare’ — including hospitals — in the West Bank, with Israeli forces detaining health staff and ambulances and preventing ambulances from accessing the wounded.155 Armed Israeli settler attacks on Palestinians — overtly supported by Israeli politicians — have also escalated dramatically.156 Settlers — often accompanied by Israeli soldiers — have killed at least eight Palestinians and injured at least 85 others, instilling terror among Palestinians, especially farming communities, and damaging property.157 2,186 Palestinians in the West Bank, including 1,058 children, have been internally displaced since 7 October 2023 as a result of extreme Israeli settler violence, alongside punitive or administrative house demolitions carried out by the Israeli army and damage caused to homes during Israeli military raids and operations.158 The Prosecutor of the International Criminal Court indicated in December 2023 that he was “accelerating investigations” into Israeli settler attacks in the West Bank.159"
+    },
+    {
+      "section": "",
+      "page": 39,
+      "content": "Israel’s actions in the West Bank since 7 October 2023 — including its support for and failure to prevent or punish Israeli settlers for incitement and violence against Palestinians and Palestinian property, including the driving out of vulnerable Palestinian communities from their lands — are intrinsically connected to Israel’s actions in Gaza, and provide at the very least important context to Israel’s violations of the Genocide Convention."
+    },
+    {
+      "section": "The attacks in Israel of 7 October 2023",
+      "page": 40,
+      "content": "Israel’s military assault in Gaza and its heightened military campaign in the West Bank were launched in response to an attack in Israel on 7 October 2023 (dubbed ‘Operation Al Aqsa Flood’) by two Palestinian armed groups – the military wing of Hamas (the ‘Izz ad-Din al-Qassam Brigades’) and Palestinian Islamic Jihad. The groups launched a large barrage of rockets towards Israel, breached the Israeli fence besieging Gaza, and attacked Israeli military bases and civilian towns, as well as a music festival attended by thousands of young people, in circumstances being investigated by the Prosecutor of the ICC.160 South Africa unequivocally condemns the targeting of Israeli and foreign national civilians by Hamas and other Palestinian armed groups and the taking of hostages on 7 October 2023, as expressly recorded in its Note Verbale to Israel of 21 December 2023."
+    },
+    {
+      "section": "",
+      "page": 41,
+      "content": "Since 7 October 2023, over 1,200 Israelis and foreign nationals have been killed in Israel, according to figures provided by the Israeli authorities, including 36 children, the vast majority on 7 October 2023 itself.161 Approximately 240 civilians — including elderly people, women and children\n    —\tand Israeli soldiers were taken as hostages into Gaza. Only 110 of them have been released to date in exchange for 240 Palestinians — including elderly people, women and children — imprisoned or ‘administratively detained’ by Israel.162 57 hostages are reported to have been killed in Israeli bombardments of Gaza; a further three hostages are confirmed to have been shot dead by Israeli soldiers in Gaza.163 Rockets continue to be fired from Gaza into Israeli territory, leading to the ongoing evacuation of tens of thousands of Israelis, particularly from communities bordering the security fences with Gaza and Lebanon.164 The ICC Prosecutor has warned that hostage-taking “represents a grave breach to the Geneva Conventions” and the taking and holding of children is an “egregious breach of fundamental principles of humanity”.165 United Nations General Assembly Resolutions ES-10/21 and ES-10/22 (2023) condemn acts of violence aimed at Israeli civilians and call for the release of all civilians who are being illegally held captive.166 United Nations Security Council Resolution 2712 (2023) also calls for “the immediate and unconditional release of all hostages held by Hamas and other groups”.167"
+    },
+    {
+      "section": "",
+      "page": 42,
+      "content": "In response to the attacks of 7 October 2023, Israel vowed to “crush and eliminate” Hamas, and “to clear out the hostile forces that infiltrated our territory and restore the security”.168 On 7 October 2023, the Israeli Prime Minister declared that “the IDF will immediately use all its strength to destroy Hamas's capabilities. We will destroy them and we will forcefully avenge this dark day that they have forced on the State of Israel and its citizens”.169 On 9 October 2023, the Prime Minister announced that “Israel is at war”.170 Both he and the Israeli President have invoked ‘the right of self-defence’ as justification for Israel’s ongoing military activities in Gaza.171 The escalation in hostilities between Israel and Hamas, dubbed the ‘Swords of Iron War’ by Israel, has been referred to in international Western media and commentary as the ‘Israel-Hamas War’.172"
+    },
+    {
+      "section": "Genocidal Acts Committed against the Palestinian People",
+      "page": 43,
+      "content": "This section provides an overview of the acts in which Israel has engaged that are genocidal in character, having regard to their nature, scope and context. These acts are ongoing, and ongoing in a conflict context, where Israel is deliberately imposing telecommunications blackouts on Gaza and restricting access by fact-finding bodies173 and the international media.174 At the same time Palestinian journalists are being killed at a rate significantly higher than has occurred in any conflict in the past 100 years. In the two months since 7 October 2023, the number of journalists killed already exceeded that of the entirety of World War II.175 Further detail will be provided regarding these acts over the course of these proceedings. However, such information as is available establishes that Israel: (1) is engaged in killing Palestinians in Gaza — including Palestinian children — in large numbers; (2) is causing serious bodily and mental harm to Palestinians in Gaza, including Palestinian children; and is inflicting on them conditions of life intended to bring about their destruction as a group. Those conditions include:\n    (3) expulsions from homes and mass displacement, alongside the large-scale destruction of homes and residential areas; (4) deprivation of access to adequate food and water; (4) deprivation of access to adequate medical care; (5) deprivation of access to adequate shelter, clothes, hygiene and sanitation; and (6) the destruction of the life of the Palestinian people in Gaza; and (7) imposing measures intended to prevent Palestinian births.\n    "
+    },
+    {
+      "section": "",
+      "page": 44,
+      "content": "United Nations chiefs and the International Committee of the Red Cross (‘ICRC’) — no strangers to conflict situations — have called what is unfolding in Gaza a “crisis of humanity”.176 “Humanitarian veterans who have served in war zones and disasters around the world — people who have seen everything — [say] they have seen nothing like what they see today in Gaza” (United Nations Secretary-General).177 This is “a moral failure” causing “intolerable suffering” (ICRC President).178 “This is an apocalyptic situation now, because these are the remnants of a nation being driven into a pocket in the south” (Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator at the United Nations).179 They describe Palestinians in Gaza as “living in utter, deepening horror” as they “continue to be relentlessly bombarded by Israel… suffering death, siege, destruction and deprivation of the most essential human needs such as food, water, lifesaving medical supplies and other essentials on a massive scale”; it is “apocalyptic” (United Nations High Commissioner for Human Rights).180 “An entire population is besieged and under attack, denied access to the essentials for survival, bombed in their homes, shelters, hospitals and places of worship” (Principals of the United Nations Inter-Agency Standing Committee).181 Gaza is “the most dangerous place in the world to be a child” (United Nations International Children’s Emergency Fund (UNICEF) Executive Director).182 “It is a “living hell”, it is “a war of all the superlative, everything is unprecedented” and “[w]e are out of words to describe what is going on” (UNRWA Commissioner-General).183"
+    },
+    {
+      "section": "Killing Palestinians in Gaza",
+      "page": 45,
+      "content": "Over 21,110 Palestinians are reported to have been killed since Israel began its military assault on Gaza, according to the Palestinian Health Ministry, at least 70 per cent of whom are believed to be women and children.184 An additional estimated 7,780 people, including at least 4,700 women and children, are reported missing, presumed dead under the rubble of destroyed buildings — dying slow deaths — or decomposing in the streets where they were killed.185 Israel’s blockage of adequate fuel imports, its destruction of infrastructure and the communication blackouts it imposes severely hamper rescue attempts. As of 8 December 2023, only one rescue vehicle was reportedly operational in the whole of Gaza, with survivors forced to try to dig for survivors with their bare hands.186 The level of Israel’s killing is so extensive that bodies are being buried in mass graves, often unidentified.187"
+    },
+    {
+      "section": "",
+      "page": 46,
+      "content": "“Nowhere is safe in Gaza”, as the United Nations Secretary-General — and many other United Nations experts — have now made clear to the international community.188 Palestinians in Gaza have been killed in their homes, in places where they sought shelter, in hospitals, in UNWRA schools, in churches, in mosques, and as they tried to find food and water for their families. They have been killed if they failed to evacuate, in the places to which they fled, and even while they attempted to flee along Israeli declared “safe routes”.189 Reports are multiplying of Israeli soldiers performing summary executions, including of multiple members of the same family — men, women and older people.190 One such account is the reported execution in Gaza City of at least 11 male members of the Annan family and their relatives — boys and men, said to have been separated out by Israeli soldiers and shot in front of their family — before the women and children were then attacked.191 There are also reports of unarmed people — including Israeli hostages — being shot dead on sight, despite posing no threat, including while waving white flags.192 Attacks on Palestinian homes and residential blocks account for a significant number of the dead,193 with Israel reportedly using Artificial Intelligence (‘AI’) to generate up to 100 bombing targets per day.194"
+    },
+    {
+      "section": "",
+      "page": 47,
+      "content": "Israel is said to be dropping ‘dumb’ (i.e., unguided) bombs on Gaza,195 as well as heavy bombs weighing up to 2,000 lbs (900 kgs),196 which have a predicted lethal radius “of up to 360m”, and are “expected to cause severe injury and damage as far as 800 metres from the point of impact”.197 This weaponry is being deployed in one of the most densely populated areas in the world, where approximately one in every 100 people has now been killed. Some Israeli strikes on Palestinian homes and refugee camps have killed upwards of 110 Palestinians.198 An estimated 1,779 Palestinian families in Gaza have lost multiple family members, and hundreds of multigenerational families have been killed in their entirety, with no remaining survivors — mothers, fathers, children, siblings, grandparents, aunts, cousins — often all killed together.199 By 7 November 2023, 312 Palestinian families in Gaza had lost over 10 members each.200 Numerous Palestinian families have lost upwards of 70 members each.201 The level of mortality in Palestinian families is such that medics in Gaza have had to coin a new acronym: ‘WCNSF’, meaning ‘wounded child, no surviving family’.202"
+    },
+    {
+      "section": "",
+      "page": 48,
+      "content": "48.\tFor Palestinian children, in particular, “[d]eath is everywhere” and “nowhere is safe”.203 A total of over 7,729 Palestinian children have been killed in Gaza to date — over 115 Palestinian children in Gaza are killed every day.204 It is estimated that more Palestinian children were killed in the first three weeks in Gaza alone (a total of 3,195) than the total number of children killed each year across the world’s conflict zones since 2019.205 The scale of Palestinian child killings in Gaza is such that United Nations chiefs have described it as “a graveyard for children”.206 Indeed, the unprecedented rate of Palestinian child casualties has prompted UNICEF’s spokesperson to call Israel’s attacks on Gaza a “war on children”. He explained:",
+      "subtext": [
+        "“Most crises, they impact children terribly because children are the most vulnerable, but most have about a casualty rate of children of around 20 per cent. This is 40. This is twice as lethal to children as many conflicts we’ve seen in the last 15 or 20 years, and unfortunately that is because of the sheer density of population, the indiscriminate nature, and when we see that there’s been not even lip service to safe zones having water and sanitation for children and young girls. That same disregard for children is being shown in the bombardments. That’s why we see 40 per cent of casualties are children. That’s why it’s a war on children.”207"
+      ]
+    },
+    {
+      "section": "",
+      "page": 49,
+      "content": "Doctors, journalists, teachers, academics and other professionals are also being killed at wholly unprecedented rates. To date, Israel has killed: over 311 doctors, nurses and other health workers, including doctors and ambulance drivers killed on duty;208 103 journalists, amounting to over one per day,209 and more than 73 per cent of the total number of journalists and media workers killed globally in 2023;210 40 civil defence workers — responsible for helping to dig victims out of the rubble — killed while on duty; and over 209 teachers and educational staff.211 144 United Nations employees have also been killed, the “highest number of aid workers killed in UN history in such a short time”.212 It is estimated that “it will take years to recover the remains of people from beneath the rubble” and that “the costly, technical process will not result in the identification of each body”.213\n    \n    "
+    },
+    {
+      "section": "",
+      "page": 50,
+      "content": "In addition to being killed by Israeli weaponry, Palestinians in Gaza are also at immediate risk of death by starvation, dehydration and disease as a result of the ongoing siege by Israel, the insufficient aid being allowed through to the Palestinian population, and the extreme difficulties in distributing such limited aid that is permitted to enter the territory due to the decimation of Gaza’s infrastructure in Israel’s military attacks.214"
+    },
+    {
+      "section": "Causing Serious Bodily and Mental Harm to Palestinians in Gaza",
+      "page": 51,
+      "content": "Over 55,243 Palestinians have been wounded in Israel’s military attacks on Gaza since 7 October 2023, the majority of them women and children.215 Burns and amputations are typical injuries,216 with an estimated 1,000 children having lost one or both legs.217 There are reports of Israeli forces using white phosphorus in densely populated areas in Gaza: as the World Health Organization describes, even small amounts of white phosphorus can cause deep and severe burns, penetrating even through bone, and capable of reigniting after initial treatment.218 There are no functioning hospitals in the North of Gaza, in particular, such that injured persons are reduced to “waiting to die”, unable to seek surgery or medical treatment beyond first aid, dying slow, agonising deaths from their injuries or from resultant infections.219"
+    },
+    {
+      "section": "",
+      "page": 52,
+      "content": "52.\tThe extreme levels of bombardment and lack of any safe areas are also causing severe mental trauma in the Palestinian population in Gaza.220 Even before the latest onslaught, Palestinians in Gaza suffered severe trauma from prior attacks: 80 per cent of Palestinian children experienced higher levels of emotional distress, demonstrating bedwetting (79 per cent) and reactive mutism (59 per cent), and engaging in self-harm (59 per cent), and suicidal thoughts (55 per cent).221 Eleven weeks of relentless bombardment, displacement and loss will necessarily have led to a further increase in those figures, particularly for the estimated tens of thousands of Palestinian children who have lost at least one parent, and those who are the sole surviving members of their families.222 For the families who remain intact or partially intact, “it’s about doing everything you can so your child doesn’t realise that you’ve lost control”.223"
+    },
+    {
+      "section": "",
+      "page": 53,
+      "content": "53.\tIt is already known that “[r]epeated exposure to conflict and violence, including witnessing and experiencing housing demolition, combined with Israel’s siege of Gaza since 2007” is “associated with high levels of psychological distress among Palestinians”.224 Indeed, the United Nations Security Council in Resolution 2712 (2023) expressed its “deep concern that the disruption of access to education has a dramatic impact on children, and that conflict has lifelong effects on their physical and mental health”.225 That disruption and its “dramatic impact” on children must be considered, in particular, in the context of the number of Palestinian students and educators who have been killed (4,037 and 209 respectively), and wounded (estimated at 7,259),226 and the number of Palestinian schools having been damaged or destroyed (352, or 74 per cent of the schools in the whole of Gaza).227 Medical professionals assess that “[t]he health effects on all Palestinian children, women, men, older people, people with disabilities, and people of marginalised identities are immense”.228 An Emergency Coordinator for Médecins sans Frontières interviewed on her return from five weeks in Gaza described:",
+      "subtext": [
+        "“[I]t's even worse in reality than it looks. It's - the amount of suffering is just something… incomparable. It's really unbearable. I'm speechless when I try and think of the future of this children. It's generations of children who will be handicapped, who will be traumatized. The very children in our mental health program are telling us that they would rather die than continue living in Gaza now.”229"
+      ]
+    },
+    {
+      "section": "",
+      "page": 54,
+      "content": "54.\tAlongside its military campaign, Israel has engaged in the dehumanisation, and cruel, inhuman and degrading treatment of members Palestinians in Gaza. Large numbers of Palestinian civilians, including children, have reportedly been arrested, blindfolded, forced to undress and remain outside in the cold weather, before being forced on to trucks and taken to unknown locations.230 Medics and first responders, in particular, have been repeatedly detained by Israeli forces, with many being detained incommunicado at unknown locations.231 Videos published by Israeli media on Christmas Day appeared to show hundreds of Palestinians, rounded up inside Al Yarmouk football stadium in Gaza City, “including children, older people and persons with disabilities, being forced to strip to their underwear in degrading conditions”.232 Many Palestinian detainees who have been released report having been subjected to torture and ill-treatment, including the deprivation of food, water, shelter and access to toilets;233 the United Nations Office for the Coordination of Humanitarian Affairs (‘OCHA’) reports “video footage showing bruises and burns on the … bodies” of detainees.234 Images of mutilated and burned corpses — alongside videos of armed attacks by Israeli soldiers — billed as ‘exclusive content from the Gaza Strip’, are reportedly circulated in Israel via a social media ‘Telegram’ channel called ‘72 Virgins - Uncensored’.235"
+    },
+    {
+      "section": "Mass expulsion from homes and displacement of Palestinians in Gaza",
+      "page": 55,
+      "content": "It is estimated that over 1.9 million Palestinians out of Gaza’s population of 2.3 million people\n    —\tapproximately 85 per cent of the population — have been forced from their homes.236 There is nowhere safe for them to flee to, those who cannot leave or refuse to be displaced have been killed or are at extreme risk of being killed in their homes.\n    "
+    },
+    {
+      "section": "Mass expulsion from homes and displacement of Palestinians in Gaza",
+      "page": 56,
+      "content": "Israel is repeatedly issuing ‘evacuation orders’ demanding that Palestinian civilians in certain areas of Gaza leave their homes for other areas. The first such order, issued on 13 October 2023 demanded that the 1.1 million Palestinians living or otherwise present in the North of Gaza, including Gaza City, move to the South of Gaza within a 24-hour window.237 The International Committee of the Red Cross warned that the evacuation directive, impacting approximately 36 per cent of Gaza’s territory\n    —\tcombined with the complete siege of Gaza — was not compatible with international humanitarian law.238 The World Health Organization warned that it “could be tantamount to a death sentence” for hospital patients.239 The evacuation was, however, maintained and has been reissued on a number of occasions, including on 28 October 2023,240 ahead of the Israeli announcement of ground operations in northern Gaza, and again thereafter. Israel has also issued more specific evacuation notices, ordering people in certain parts of Gaza City to evacuate to other parts.241 Many of those who are unwilling or unable to evacuate are then bombed in their homes.242"
+    },
+    {
+      "section": "Mass expulsion from homes and displacement of Palestinians in Gaza",
+      "page": 57,
+      "content": "Palestinians fleeing the North pursuant to Israel’s evacuation orders were urged to move south along Gaza’s main traffic artery, Salah Al Din Road, on certain days, during certain designated hours. However, there were numerous reported instances of shelling along the routes and of other violence by Israeli forces against evacuating Palestinian civilians, including inhuman and degrading treatment, arbitrary arrests, unlawful detention, and killings.243 Israel has also continued bombing south of Wadi Gaza throughout this time, killing many Palestinians who evacuated,244 initially prompting many Palestinian families to seek to return north to at least risk being bombed in the familiar surrounding of their homes.245 Some of those attempting to return north during the temporary pause in hostilities between Israel and Hamas were shot at by Israeli forces, who killed at least two people, and injured others.246"
+    },
+    {
+      "section": "Mass expulsion from homes and displacement of Palestinians in Gaza",
+      "page": 58,
+      "content": "On 1 December 2023 — the end of the eight-day temporary truce between Israel and Hamas\n    —\tIsrael began dropping leaflets, urging Palestinians to leave areas in the South to which they had previously been told to flee — an area constituting approximately 30 per cent of Gaza.247 As stated by the United Nations Special Rapporteur on the human rights of internally displaced persons, “Israel has reneged on promises of safety made to those who complied with its order to evacuate northern Gaza two months ago. Now, they have been forcibly displaced again, alongside the population of southern Gaza”.248 Israel also published a detailed map online, dividing the Gaza Strip into hundreds of small areas.249 The map was ostensibly intended to provide notice of Israeli orders to evacuate individual areas ahead of planned air strikes. However, as noted by OCHA, “the publication does not specify where people should evacuate to”. Moreover, after months of bombardment — amidst the ongoing electricity blackout imposed by Israel since 11 October 2023 and regular telecommunications blackouts250 — most Palestinians in Gaza have little access to electricity to charge phones or other devices and no reliable way of accessing the map.251 The United Nations Secretary-General has remarked that “the people of Gaza are being told to move like human pinballs – ricocheting between ever-smaller slivers of the south, without any of the basics for survival.”252"
+    },
+    {
+      "section": "Mass expulsion from homes and displacement of Palestinians in Gaza",
+      "page": 59,
+      "content": "Palestinians are not safe, even in those “small … slivers”: as United Nations chiefs keep reiterating. “No place is safe”,253 there is “nowhere safe to go”.254 The Director of UNRWA Affairs in Gaza has pleaded that “[p]eople in Gaza are people … they are not pieces on a checkerboard - many have already been displaced several times. The Israeli Army just orders people to move into areas where there are ongoing airstrikes”.255 This is creating terror.256 The increased population density as a result of the evacuation ‘orders’ is also rendering Israeli strikes ever more lethal. On Christmas Eve itself, the Israeli army bombed Al Maghazi Refugee Camp in the Middle Area — an area to which tens of thousands of Palestinians had fled from the North — killing an estimated 86 people, including many women and children, and injuring many others.257 A spokesperson for the OHCHR stated that they were “gravely concerned” that “this latest intense bombardment comes after Israeli forces ordered residents from the south of Wadi Gaza to move to Middle Gaza”.258"
+    },
+    {
+      "section": "Mass expulsion from homes and displacement of Palestinians in Gaza",
+      "page": 60,
+      "content": "For many Palestinians, the forced evacuation from their homes is necessarily permanent. Israel has now damaged or destroyed an estimated 355,000 Palestinian homes — amounting to 60 per cent of the entire housing stock in Gaza. The extent of the destruction in the North of Gaza, in particular, has rendered it largely unliveable, with the destruction in the South reaching a similar level. As noted by the Special Rapporteur on the human rights of internally displaced persons, “Gaza’s housing and civilian infrastructure have been razed to the ground, frustrating any realistic prospects for displaced Gazans to return home, repeating a long history of mass forced displacement of Palestinians by Israel”.259 The forced displacements in Gaza are genocidal, in that they are taking place in circumstances calculated to bring about the physical destruction of Palestinians in Gaza.260"
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 61,
+      "content": "On 9 October 2023, Israel declared a “complete siege” on Gaza, allowing no electricity, no food, no water and no fuel to enter the strip.261 Although the siege has been partially alleviated since then, with some aid trucks being permitted in since 21 October 2023, this remains wholly insufficient, and well below the pre-October 2023 average of approximately 500 trucks per day.262 Moreover, fuel imports — permitted since 21 November 2023 — are “well below the minimum requirements for essential humanitarian operations”,263 meaning that such limited humanitarian aid as is being allowed in cannot easily be moved around Gaza away from entry points.264 As the Secretary-General has starkly assessed, the level of destruction in Gaza is now so catastrophic that:",
+      "subtext": [
+        "“[t]he conditions for the effective delivery of humanitarian aid no longer exist . . . But even if sufficient supplies were permitted into Gaza, intense bombardment and hostilities, Israeli restrictions on movement, fuel shortages, and interrupted communications, make it impossible for UN agencies and their partners to reach most of the people in need.”265"
+      ]
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 62,
+      "content": "In light of that, the United Nations Security Council Resolution 2720 of 22 December 2023 is widely slated to be ineffectual, despite demanding that “the parties to the conflict allow and facilitate the use of all available routes to and throughout the entire Gaza Strip, including border crossings” and requesting “that the Coordinator expeditiously establish a United Nations mechanism for accelerating the provision of humanitarian relief consignments”.266 That is because the watered-down resolution fails properly to address the “four elements” identified by the United Nations Secretary-General as necessary for allowing effective aid, capable of assisting Palestinians in Gaza: (1) security (“We are providing aid in a war zone. The intense Israeli bombardment and active combat in densely populated urban areas throughout Gaza threaten the lives of civilians and humanitarian aid workers alike”); (2) staff (“The humanitarian operation requires staff who can live and work in safety. 136 of our colleagues in Gaza have been killed in 75 days — something we have never seen in the history of the United Nations . . . In these appalling conditions, they can only meet a fraction of the needs”); (3) logistics (“Many of our vehicles and trucks were destroyed or left behind following our forced, hurried evacuation from the north, but the Israeli authorities have not allowed any additional trucks to operate in Gaza. This is massively hampering the aid operation. Delivering in the north is extremely dangerous due to active conflict, unexploded ordnance, and heavily damaged roads. Everywhere, frequent communications blackouts make it virtually impossible to coordinate the distribution of aid, and to let people know how to access it”); (4) and the resumption of commercial activities (“Shelves are empty; wallets are empty; stomachs are empty. Just one bakery is operating in the whole of Gaza. I urge the Israeli authorities to lift restrictions on commercial activity immediately. We are ready to scale up our cash grant support to vulnerable families — the most effective form of humanitarian aid. But in Gaza, there is very little to buy”).267 Having regard to those factors, the Secretary-General was clear to advise that focusing on the number of trucks permitted into Gaza daily was misleading:",
+      "subtext": [
+        "“Many people are measuring the effectiveness of the humanitarian operation in Gaza based on the number of trucks from the Egyptian Red Crescent, the UN and our partners that are allowed to unload aid across the border. This is a mistake. The real problem is that the way Israel is conducting this offensive is creating massive obstacles to the distribution of humanitarian aid inside Gaza.”268"
+      ]
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 63,
+      "content": "It is for that reason that United Nations Security Council Resolution 2720 — which fails properly to address the situation on the ground, including by failing to call for a ceasefire — has been described by a former senior UNRWA official as “a greenlight for continued genocide”, marked by “the wholesale and industrial ignoring of international humanitarian law”.269 Oxfam has called the “failure to call for a ceasefire” in the resolution “incomprehensible and utterly callous” as well as a “profound dereliction of duty” on the part of the United Nations Security Council,270 having regard to the extreme seriousness of the situation in Gaza."
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 64,
+      "content": "Israel has now pushed the Palestinian population in Gaza to the brink of famine, with international agencies warning that “the risk of famine is real” (World Food Programme or ‘WFP’) and that it is “increasing each day” (IPC).271 Most of the Palestinian people in Gaza are now starving, with levels of starvation rising daily.272 The World Health Organization warns that “[h]unger is ravaging Gaza”.273 As the United Nations Secretary-General has stated, “[f]our out of five of the hungriest people anywhere in the world are in Gaza”,274 with Palestinians in Gaza facing the highest levels of acute food insecurity ever classified by the IPC.275 UNRWA’s Commissioner-General describes “[d]esperate, hungry and terrified” people, who are now “stopping aid trucks, taking the food, and eating it right away.”276 The World Health Organization has stated that “[a]n unprecedented 93% of the population in Gaza is facing crisis levels of hunger, with insufficient food and high levels of malnutrition”. They say that “[a]t least 1 in 4 households are facing ‘catastrophic conditions’: experiencing an extreme lack of food and starvation and having resorted to selling off their possessions and other extreme measures to afford a simple meal”. They caution that “[s]tarvation, destitution and death are evident”,277 calling Israel’s actions in cutting off Gaza “from water, food, anything which is necessary for any sort of life” “a cruel campaign”, brought “against the whole population of Gaza”.278 Their Emergency Medical Teams Coordinator explained that “every single person” he speaks to is hungry: “Everywhere we go, people are asking us for food even in the hospital, I walked around in the emergency department, somebody with an open bleeding wound, an open fracture; they asked for food. If that's not an indicator of the desperation, I don't know what is”.279 The situation is such that the United Nations High Commissioner for Human Rights has felt the need to caution that “[s]tarvation must never be a means or result of warfare”.280 Oxfam and Human Rights Watch have gone even further in expressly accusing Israel of using starvation “as a weapon of war” against the Palestinian people in Gaza.281"
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 65,
+      "content": "The conditions created by the siege are exacerbated by Israel’s continuing strikes on Gaza, including on its bakeries, water facilities and last remaining operating mill, and its razing of agricultural lands, crops, orchards and greenhouses.282 By 16 November 2023, the food infrastructure in Gaza was already considered “no longer functional”, given shop and market closures, the lack of essential food items, and the inflated price of the scarce food available.283 Bread is scarce or non-existent,284 with food scarcity leading to significant price hikes, and the price of flour increasing by 65 per cent at one stage.285 Livestock that has not been killed is facing starvation, and crops are damaged or destroyed.286 Many Palestinians are resorting to foraging due to hunger, collecting spilled flour from aid distributions from the road, or other unsafe food practices.287"
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 66,
+      "content": "Water is also severely depleted. Israel continues to cut off piped water for the North of Gaza,288 and the North’s water desalination plant is non-functioning.289 From 15 October 2023, Israel began piping a small amount of water to the South, in part to “push the civilian population to the southern [part of the] Strip”.290 The damage from Israeli airstrikes and shelling has also rendered most of the water system inoperable.291 The World Food Programme has reported that there is only 1.5 to 1.8 litres of clean water available per person per day, for all uses (drinking, washing, food preparation, sanitation and hygiene).292 This is far below the ‘emergency threshold’ of 15 litres per day for “war or famine-like conditions”, or the ‘survival threshold’ of 3 litres per day.293 The World Health Organization Emergency Medical Teams Coordinator described the scene at Al Ahli Arab Hospital, where medical staff were struggling to cope with “no food, no fuel, no water”, stating that “it looks more like a hospice now than a hospital. But a hospice implies a level of care that the doctors and nurses are unable to provide . . . It’s pretty unbearable to see somebody with casts on multiple limbs, external fixator on multiple limbs, without drinking water and almost no IV fluids available”. He said that “patients were crying out in pain, but they were also crying out for us to give them water”. He urged that “[t]he time is now. We are dealing with starving people now, adults, children, it’s unbearable”.294"
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 67,
+      "content": "The lack of water is severely impacting lactating women, in particular, who, even if undertaking only a moderate amount of exercise, require a supply of 7.5 litres of water a day for drinking, sanitation and hygiene to keep themselves and their babies healthy.295 Young mothers — unable to breastfeed for lack of proper nutrition arising from the food scarcity — have been forced to use contaminated water to prepare formula — where it is available — risking disease in vulnerable babies. In parallel, the chronic unavailability of formula is also risking the lives of newborn babies, who are already reportedly dying from avoidable causes due to the absence of medical care, food, water and adequate sanitation.296 The impacts of malnourishment on older children may also be particularly grave and long-lasting, preventing them from reaching their full potential in terms of physical growth, cognitive capacity, school performance and productivity later in life.297 Many health workers also lack sufficient food and water to continue working, which will also necessarily further impact on health and mortality rates.298"
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 68,
+      "content": "This is all happening to a population that was already extremely vulnerable as a result of Israel’s prior actions against Gaza. Israel has long hindered the creation and repair of water installation and desalinisation plants in Gaza, such that 95 per cent of water from Gaza’s sole aquifer was already unsuitable for consumption prior to 7 October 2023.299 Through its 16-year blockade, Israel also severely impacted water supply.300 Its repeated attacks on Gaza and its restrictions on repairing the degraded wastewater infrastructure damaged the soil, rendering agriculture challenging.301 Israel also restricted access by Palestinians in Gaza to up to 35 per cent of agricultural land and up to 85 per cent of Gaza’s fishing waters.302 Consequently, over 68 per cent of households (around 1.3 million people) were severely or moderately food insecure prior to 7 October 2023, with 58 per cent of the population dependent on humanitarian aid.303 7,685 children under five years of age in Gaza were suffering from life-threatening ‘wasting’, the deadliest form of child malnutrition.304 The impact on Palestinian children of Israel’s forced starvation of Gaza will necessarily be serious and long-lasting."
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 69,
+      "content": "Recent reports of Israeli plans to flood tunnels in Gaza with seawater is of extreme concern, given the risks it would pose of further degradation and collapse of Gaza’s water and sewage infrastructure, and of long-lasting contamination of Gaza’s aquifer and soil.305 Environmental experts have warned that the strategy “risks causing an ecological catastrophe” that would leave Gaza with no drinkable water, devastate what little agriculture is possible and “ruin the conditions of life of everyone in Gaza”.306 The United Nations Special Rapporteur for the right to water is reported to have compared the plan to the mythical Roman ‘salting’ of the fields of Carthage to prevent crop growth and render the\n    territory uninhabitable.307\n    "
+    },
+    {
+      "section": "Deprivation of access to adequate food and water to Palestinians in Gaza",
+      "page": 70,
+      "content": "Experts are now predicting that more Palestinians in Gaza may die from starvation and disease than airstrikes,308 and yet Israel is intensifying its bombing campaign, precluding the effective delivery of humanitarian assistance to Palestinians. It is clear that Israel is through its actions and policies in Gaza, deliberately inflicting on Palestinians conditions of life calculated to bring about their destruction.309"
+    },
+    {
+      "section": "Deprivation of access to adequate shelter, clothes, hygiene and sanitation to Palestinians in Gaza",
+      "page": 71,
+      "content": "The majority of the 1.9 million displaced Palestinians in Gaza are seeking shelter in UNRWA facilities, which primarily consist of schools and tents.310 These locations are themselves not safe: to date — and despite Israel having been provided with the coordinates of all United Nations facilities311\n    —\tIsrael has killed hundreds of Palestinian men, women and children seeking shelter in UNRWA facilities, and injured over a thousand.312\n    "
+    },
+    {
+      "section": "Deprivation of access to adequate shelter, clothes, hygiene and sanitation to Palestinians in Gaza",
+      "page": 72,
+      "content": "The situation in UNRWA shelters was described as follows by the Commissioner-General of UNRWA in his 7 December 2023 letter of which the United Nations General Assembly took note in its Resolution ES-10/22 of 12 December 2023:",
+      "subtext": [
+        "“Today, as a result of Israel’s military operation, nearly 1.2 million civilians are sheltering in UNRWA premises. The Agency has become the primary platform for humanitarian assistance to over 2.2 million people in Gaza — a platform on the verge of collapse.",
+        "UNRWA is, as of today, still operational in Gaza, though just barely. Our staff are still operating health centers, managing shelters, and supporting traumatized people, some arriving carrying their dead children. We are still distributing food, even though the corridors and courtyards of our premises are too crowded to walk through. Our staff take their children to work so they know they are safe or can die together. More than 130 UNRWA staff are confirmed killed in bombardments, most with their families; the number might rise by the time you read this. At least 70% of UNRWA staff are displaced, and lack food, water and adequate shelter. We are hanging on by our fingertips. If UNRWA collapses, humanitarian assistance in Gaza will also collapse.",
+        "The humanitarian situation is now untenable. Conditions in Gaza were already appalling when I stayed overnight two weeks ago. I witnessed constant explosive munitions from sky, land and sea, and the massive destruction of civilian infrastructure.",
+        "This week, the Israeli military forces have instructed people to move further South, forcing Gaza’s population into an ever-shrinking space. Shelters are shockingly overcrowded, with high risk of epidemic illness. In these overfull and unsanitary spaces, more than 700 people use a single toilet, women give birth (an average of 25 per day), and people nurse open wounds. Tens of thousands sleep in courtyards and streets. People burn plastic to stay warm. Nearly 90 UNRWA premises, including schools, have been hit or impacted by munitions, killing over 270 internally displaced people, many this week. In Gaza as a whole, over 16,000 people, two thirds of whom are women and children, are reported killed during bombardments. Large swathes of Gaza are destroyed and uninhabitable.",
+        "The premise of UNRWA’s mandate — to provide services to Palestine Refugees until there is a political solution — is at great risk: without safe shelter and aid, civilians in Gaza risk death or will be forced to Egypt and beyond. Forced displacement out of Gaza may end prospects for the political solution that is intrinsic to UNRWA’s mandate, with grave risks for regional peace and security. A forced displacement beyond Palestinian land, reminiscent of the 1948 Nakba, must be prevented.",
+        "In my 35 years working in complex emergencies, I have never written such a letter —\n        predicting the killing of my staff and the collapse of the mandate I am expected to fulfil.”313\n        "
+      ]
+    },
+    {
+      "section": "Deprivation of access to adequate shelter, clothes, hygiene and sanitation to Palestinians in Gaza",
+      "page": 73,
+      "content": "Those Palestinians with a place in UNRWA shelters are “the lucky ones”, according to UNRWA’s Commissioner-General.314 Others attempt to find shelter in the homes of relatives or strangers, in government facilities, hospital courtyards, or makeshift camps, without any access to food, water or sanitary facilities, or simply live and sleep in the streets, exposed to the elements. UNRWA’s shelters now have on average 486 people using a single toilet,315 while other locations where people are seeking to shelter often have no toilets at all.316 Palestinians are unable to maintain personal hygiene, with menstruating girls and women being particularly impacted.317 The World Health Organization estimates that there is on average “only one shower for every 4500 people”.318 Newborns in shelters are reportedly dying from avoidable causes due to the absence of adequate sanitation, food, water and medical care.319"
+    },
+    {
+      "section": "",
+      "page": 74,
+      "content": "Since the Commissioner-General of UNRWA wrote to the President of the United Nations General Assembly on 7 December 2023, advising that the humanitarian situation in Gaza was already “untenable”,320 over one million Palestinians have continued to be forced by Israeli military ‘orders’ into the Rafah Governorate near the Egyptian border. The area has become the “epicentre of displacement”, with an estimated “fourfold” increase in its population density, thought to now exceed 12,000 people per square kilometre.321 OCHA is warning there is “no empty space left for people to shelter, not even in the streets and other open areas”.322 Al-Mawasi — a sandy, barren strip of approximately 14 square kilometres along the Mediterranean Sea, without aid provisions, water, food or sanitation — the so-called ‘safe zone’ to which Israel has told Palestinians in Gaza to flee, is anything but safe. As UNRWA has underscored “unilaterally-declared ‘safe zones’ are not safe at all. Nowhere in Gaza is safe”.323 The Head of Humanitarian Policy at Save the Children International has warned: “People are in overcrowded shelters in makeshift tents. There is no access to clean water, there are crumbling sanitation facilities. We’ve heard of children starving in the so-called ‘safe zone’ of Al- Mawasi.”324"
+    },
+    {
+      "section": "",
+      "page": 75,
+      "content": "Throughout Gaza, there are acute shortages in warm clothes, bedding, blankets and critical non- food items, with people heavily dependent on salvaged wood and waste for cooking and warmth, raising the risk of respiratory diseases.325 There is also an acute shortage of clean water, severely impacting not just the ability to hydrate, but to wash, clean and cook.326 The siege and infrastructure damage from bombing continue to prevent adequate water treatment and distribution, and sewage management, with flooding exponentially increasing the risks of the spread of infectious diseases amongst displaced Palestinians.327 On 20 December 2023, the Director General of the World Health Organization warned that “Gaza is already experiencing soaring rates of infectious disease outbreaks. Diarrhoea cases among children aged under 5 are 25 times what they were before the conflict. Such illnesses can be lethal for malnourished children, more so in the absence of functioning health services”.328 Sewage is flowing into the streets where Palestinians are living, as it can no longer be managed.329 “Everywhere you look, is congested with makeshift shelters. Everywhere you go, people are desperate, hungry and terrified.”330 These conditions — deliberately inflicted by Israel — are calculated to bring about the destruction of the Palestinian group in Gaza."
+    },
+    {
+      "section": "Deprivation of adequate medical assistance to Palestinians in Gaza",
+      "page": 76,
+      "content": "Almost above all else, Israel’s military assault on Gaza has been an attack on Gaza’s medical healthcare system, indispensable to the life and survival of the Palestinians in Gaza. Israel “has declared an ‘unrelenting war’ on the health system in Gaza”, as observed by the United Nations Special Rapporteur on the right of everyone to the enjoyment of the highest attainable standard of physical and mental health. In a statement issued on 7 December 2023, the United Nations expert noted that “[t]he healthcare infrastructure in the Gaza strip has been completely obliterated” and that “[w]e bear witness to a shameful war on healthcare workers”. She warned that “[w]e are in the darkest time for the right to health in our lifetimes” and that “[w]e have descended into depths from which we must quickly emerge”.331"
+    },
+    {
+      "section": "Deprivation of adequate medical assistance to Palestinians in Gaza",
+      "page": 77,
+      "content": "In a letter to the United Nations Security Council on 4 December 2023, the International President of Médecins Sans Frontières wrote:332",
+      "subtext": [
+        "“Israel has shown a blatant and total disregard for the protection of Gaza’s medical facilities. We are watching as hospitals are turned into morgues and ruins. These supposedly protected facilities are being bombed, are being shot at by tanks and guns, encircled and raided, killing patients and medical staff. The World Health Organization has documented 203 attacks on health care that have led to at least 22 fatalities and 59 injuries of health workers on duty. Medical staff, including our own, are utterly exhausted and in despair. They have had to amputate limbs from children suffering from severe burns without anaesthesia or sterilised surgical tools. Due to forcible evacuations by Israeli soldiers, some doctors have had to leave patients behind after facing the unimaginable choice between their lives or those of their patients. There is no justification for the atrocious attacks on healthcare…\n        Four of our MSF staff have been killed; many more have lost family members. Numerous other colleagues have been injured. Other humanitarian organisations have reported dozens of their staff have been killed…\n        ",
+        "Northern Gaza is being erased from the map. The health system has collapsed… Our emergency team in Khan Younis, in southern Gaza, has reported massive influxes of wounded after intense bombing. Last Saturday, 60 dead and 213 injured people arrived at the emergency room of Al- Aqsa hospital. These strikes are also hitting overcrowded, squalid refugee camps, where people are barely surviving on the sparse humanitarian aid available. If the bombs do not get them, infectious diseases and starvation will…",
+        "“We did what we could. Remember us.” These are the words our Dr Mahmoud Abu Nujaila, who has since been killed in a hospital strike, wrote on a Gaza hospital whiteboard normally used for planning surgeries. When the guns fall silent and the true scale of devastation is revealed, will the Council and its members be able to say the same?”"
+      ]
+    },
+    {
+      "section": "Deprivation of adequate medical assistance to Palestinians in Gaza",
+      "page": 78,
+      "content": "Since early December 2023, Israeli army attacks on Palestinian hospitals have only increased. The Israeli army has continued to attack and besiege hospitals and healthcare centres; to deprive them of electricity and fuel crucial to maintain effective functioning and equipment; to obstruct them from receiving medical supplies, food and water; to force their evacuations and closure; and effectively to destroy them. The North of Gaza, without any functioning hospital for a week, has only four severely challenged partially functioning hospitals available now.333 Israel has transformed Palestinian hospitals in Gaza from places of healing into “death zone[s]”,334 and scenes of “bloodbath”,335 “death, devastation and despair”.336 Many hospitals have now become mere “place[s] where people are waiting to die”.337 The World Health Organisation describes the situation as “unconscionable” and “beyond belief”.338"
+    },
+    {
+      "section": "Deprivation of adequate medical assistance to Palestinians in Gaza",
+      "page": 79,
+      "content": "There have now been more than 238 attacks on ‘healthcare’ in Gaza, in which over 61 hospitals and other healthcare facilities have been damaged or destroyed.339 Only 13 out of 36 hospitals and 18 out of 72 healthcare centres are still even functioning — some of them barely — despite the overwhelming number of people injured in Israeli attacks.340 The Israeli army has targeted hospital generators, hospital solar panels,341 and other life-saving equipment, such as oxygen stations and water tanks.342 It has also targeted ambulances, medical convoys and first responders.343 311 health workers have been killed (on average four killed per day),344 including at least 22 health workers killed on duty.345 Those killed include some of Gaza’s most experienced and skilled doctors including Dr Hani Al Haitham, Head of the Emergency Section at Al Shifa hospital, killed with his wife, Dr Sameera Ghirafi, and their children;346 Dr Mohammad Dabbour, Head of Pathology at Al Shifa Hospital, reportedly killed with his son and father while attempting to flee Gaza City;347 Dr Medhat Saidam, plastic reconstructive burn surgeon at Al Shifa Hospital and Dr Hammam Alloh, nephrologist at Al Shifa Hospital were killed in attacks on their family homes.348 Interviewed shortly before his death, Dr Alloh responded as follows when asked why he was not fleeing the North to the South: “If I go who would treat my patients? We are not animals, we have the right to receive proper health care. You think I went to medical school and for my postgraduate degrees for a total of 14 years so I think only about my life and not my patients?”.349 The systematic destruction of Palestinian hospitals and the killing of specialist Palestinian doctors is not only impacting the care of Palestinians in Gaza at present, it is also undermining the prospect of a future Palestinian healthcare system in Gaza, destroying its capacity to rebuild and to care effectively for the Palestinian people in Gaza."
+    },
+    {
+      "section": "Deprivation of adequate medical assistance to Palestinians in Gaza",
+      "page": 80,
+      "content": "At least 570 Palestinians have been killed at hospitals and healthcare centres in Gaza and a further 746 have been injured.350 They include patients and internally displaced Palestinians, who vainly sought sanctuary on or near hospital grounds, killed by Israeli strikes or snipers.351 Palestinian mothers have been killed in maternity hospitals, and Palestinian children in children’s hospitals.352 Even those tending to and counting the dead –– like Saeed Al Shorbaji, Director of Nasser Hospital’s mortuary –– have themselves been killed.353 Some have been victims of Israeli attacks multiple times over, like 12- year old Dina Abu Mohsen –– interviewed by UNICEF after losing her parents, two siblings and her leg in an Israeli strike on her home –– she was then killed herself when the Israeli army shelled the hospital where she was being treated.354"
+    },
+    {
+      "section": "Deprivation of adequate medical assistance to Palestinians in Gaza",
+      "page": 81,
+      "content": "Other Palestinians have died as a direct result of Israel cutting off electricity and fuel to hospitals; they include five premature babies and 40 ICU and kidney patients at Al Shifa hospital.355 Other Palestinians have died as a direct result of Israel’s forced evacuation of hospitals, including at least four babies in Al Nasr hospital, whose tiny bodies were found weeks later –– during a temporary ceasefire –– decomposing in their hospital beds.356 Hospital courtyards have been turned into sites of mass graves: 357 at Al-Shifa Hospital, it was medics themselves who had to dig a mass grave for the decomposing bodies of 179 patients and others.358 Israeli bulldozers excavated and exhumed a hospital mass grave in the besieged Kamal Adwan hospital on 16 December, where 26 Palestinians had been buried.359 Speaking to CNN, Hossam Abu Safiya, Head of Paediatric Services at Kamal Adwan Hospital, stated, “[t]he soldiers dug up the graves this morning and dragged the bodies with bulldozers, then crushed the bodies with the bulldozers … I have never seen such a thing before”.360"
+    },
+    {
+      "section": "Deprivation of adequate medical assistance to Palestinians in Gaza",
+      "page": 82,
+      "content": "United Nations General Assembly Resolution ES10/21 of 27 October 2023 –– calling for the “respect and protection … of all civilian and humanitarian facilities, including hospitals and other medical facilities … as well as all of humanitarian and medical personnel”361 –– has been resolutely ignored. Doctors and medics have continued not only to be killed but also to be rounded up and disappeared by the Israeli authorities.362 They include the General Director of Al Shifa and his staff, seized and held incommunicado since 23 November 2023.363"
+    },
+    {
+      "section": "Deprivation of adequate medical assistance to Palestinians in Gaza",
+      "page": 83,
+      "content": "Those wounded by Israel in Gaza are being deprived of life-saving medical care:364 Gaza’s healthcare system –– already crippled by years of blockade and prior attacks by Israel –– is unable to cope with the sheer scale of the injuries, now at 55,243 injured including at least 8,663 children.365 There are reports of severely injured patients walking for miles trying to find help. UNICEF highlighted the case of a boy from the North “whose leg had been blown off in the violence”, who “had spent ‘three or four days’ trying to reach the south, delayed by checkpoints … The smell [of decomposition] was clear … and that boy had shrapnel all over. Potentially, he was blind and had burns to 50 per cent of his body”.366 OCHA identified the case of a woman with shrapnel injuries in her abdomen, who had walked from the North to the South pressing a towel against her wounds.367 Palestinians have had to evacuate their sick, disabled and wounded in a forced march from the North to the South –– and then again from the South onwards –– dragging hospital beds behind cars, pushing wheelchairs, raising them on makeshift stretchers, or simply carrying them in their arms.368"
+    },
+    {
+      "section": "Deprivation of adequate medical assistance to Palestinians in Gaza",
+      "page": 84,
+      "content": "Those hospitals which are still functioning are described as scenes from a “horror movie”.369\n    The critical shortages of staff and supplies –– including anaesthetics, analgesics, medicine and disinfectants370 –– have led not only to otherwise unnecessary amputations of limbs,371 but also to amputations without anaesthesia, often undertaken by flashlight.372 Pregnant women are also being subjected to caesareans without anaesthetic.373 Patients are being treated on dirty floors covered with blood, with family members having to stand holding saline bags, where saline is even available.374 There are insufficient staff and resources for adequate wound or post-operative wound care:375 unclean wounds –– often infested with worms and flies –– rapidly become infected, necrotic or gangrenous.376 Patients plead for food and water.377 Even basic pain-management treatment is often unavailable, and patients are at risk of dying from treatable conditions.378 One doctor described having to do procedures without anaesthetic, he said:\n    ",
+      "subtext": [
+        "“I was forced to do dressing changes on massive wounds, excruciatingly painful wounds. There was a girl with just her whole body covered in shrapnel. She was nine. I ended up having to change and clean these wounds with no anaesthetic and no analgesic. I managed to find some intravenous paracetamol to give her … her Dad was crying, I was crying, and the poor child was screaming…”.379"
+      ]
+    },
+    {
+      "section": "",
+      "page": 85,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 86,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 87,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 88,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 89,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 90,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 91,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 92,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 93,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 94,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 95,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 96,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 97,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 98,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 99,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 100,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 101,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 102,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 103,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 104,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 105,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 106,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 107,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 108,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 109,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 110,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 111,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 112,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 113,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 114,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 115,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 116,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 117,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 118,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 119,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 120,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 121,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 122,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 123,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 124,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 125,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 126,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 127,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 128,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 129,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 130,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 131,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 132,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 133,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 134,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 135,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 136,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 137,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 138,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 139,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 140,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 141,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 142,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 143,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 144,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 145,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 146,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 147,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 148,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 149,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 150,
+      "content": ""
+    },
+    {
+      "section": "",
+      "page": 151,
+      "content": ""
     }
   ]
 }
